@@ -70,7 +70,12 @@ So what exactly are we specifying here? I think we are specifying acceptable sur
 can deviate from it's nominal position within the bounds of it's tolerance.
 
 ## Visual summary:
+Simple Tolerance:
 ![image](https://user-images.githubusercontent.com/13490050/210017918-25fa92d8-3c50-4aa7-8bf7-7b01a26d5885.png)
+
+Possibly a slicer could pick layer height for you based on surface parameters:
+![image](https://user-images.githubusercontent.com/13490050/210018159-dbaded30-452b-488b-9312-c09ee09a1bec.png)
+
 
 
 ## What do we need to develop?
